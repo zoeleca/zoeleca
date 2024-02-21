@@ -9,6 +9,8 @@ It's in New Zealand that I came accross professional working in the Tech and sta
 I develop mainly using JavaScript. But I have also started using PHP, Python and tools such as React. Have a look at my repos to see what I'm curently working on !
 
 Get it touch !
+<br>
 → ✉️ <a href="mailto:zoennts@gmail.com">Send Email</a>
+<br>
 → 👩‍💻 <a href="https://www.linkedin.com/in/zoe-lecaille/">Linkedin</a>
 
