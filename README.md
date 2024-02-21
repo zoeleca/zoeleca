@@ -2,7 +2,7 @@
 <strong><em>Looking for an Apprenticeship (12 months) starting from July 2024</em></strong><br>
 
 ### <em>Bonjour</em> 🖐️
-<img align="left" width="100" height="100" src="https://github.com/zoeleca/zoeleca/assets/146814463/e30df359-7f40-416f-9be5-8a9f9f2521e7">
+<img align="left" width="150" height="150" src="https://github.com/zoeleca/zoeleca/assets/146814463/e30df359-7f40-416f-9be5-8a9f9f2521e7">
 I'm Zoe, a <strong>Coffee Enthusiast</strong> and a <strong>Developper Student</strong> at Ada Tech School in Paris.<br>
 <br>
 After graduating from Korean Studies in Inalco, I decided to take a gap year to rethink about my future career. <br>
