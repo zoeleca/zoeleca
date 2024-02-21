@@ -13,7 +13,7 @@ Have a look at my repos to see what I'm curently working on !
 <br>
 Get it touch !
 <br>
-→ ✉️ <a href="mailto:zoennts@gmail.com">Send Email</a>
+→ ✉️ Send me an Email : <a href="mailto:zoennts@gmail.com">zoennts@gmail.com</a>
 <br>
 → 👩‍💻 <a href="https://www.linkedin.com/in/zoe-lecaille/">Linkedin</a>
 
