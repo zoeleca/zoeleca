@@ -1,7 +1,7 @@
 # ZOE LECAILLE __ WEB DEVELOPER
-<em>Looking for an Apprenticeship (12 months) starting from July 2024</em>
+<strong><em>Looking for an Apprenticeship (12 months) starting from July 2024</em></strong>
 
-### Bonjour 🖐️
+### <em>Bonjour</em> 🖐️
 I'm Zoe, a Developper Student at Ada Tech School in Paris.
 After graduating from Korean Studies in Inalco, I decided to take a gap year to focus on my future career. 
 It's in New Zealand that I came accross professional working in the Tech and started an exciting journey towards becoming a Developper. 
