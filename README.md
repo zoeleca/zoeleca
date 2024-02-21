@@ -8,12 +8,12 @@ After graduating from Korean Studies in Inalco, I decided to take a gap year to 
 It's in New Zealand that I came accross professional working in the Tech and started an exciting journey towards becoming a Developper. <br>
 <br>
 I develop mainly using JavaScript. But I have started using PHP, Python and tools such as React. <br>
-Have a look at my repos and <a href='https://zoeleca.github.io/'>portfolio</a> to see what I'm curently working on !
+Have a look at my repos and <a href='https://zoeleca.github.io/' target="_blank">portfolio</a> to see what I'm curently working on !
 <br>
 <br>
 Get it touch !
 <br>
-→ ✉️ Send me an Email : <a href="mailto:zoennts@gmail.com">zoennts@gmail.com</a>
+→ ✉️ Send me an Email : <a href="mailto:zoennts@gmail.com" target="_blank">zoennts@gmail.com</a>
 <br>
-→ 👩‍💻 <a href="https://www.linkedin.com/in/zoe-lecaille/">Linkedin</a>
+→ 👩‍💻 <a href="https://www.linkedin.com/in/zoe-lecaille/" target="_blank">Linkedin</a>
 
