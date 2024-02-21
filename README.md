@@ -1,5 +1,5 @@
 # ZOE LECAILLE __ WEB DEVELOPER
-<code style="color : magenta"><strong><em>Looking for an Apprenticeship (12 months) starting from July 2024</em></strong></code><br>
+<code style="color : aquamarine"><strong><em>Looking for an Apprenticeship (12 months) starting from July 2024</em></strong></code><br>
 
 ### <em>Bonjour</em> 🖐️
 <img align="left" width="150" height="150" src="https://github.com/zoeleca/zoeleca/assets/146814463/e30df359-7f40-416f-9be5-8a9f9f2521e7">
