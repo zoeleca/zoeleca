@@ -8,7 +8,9 @@ I'm Zoe, a <strong>Coffee Enthusiast</strong> and a <strong>Developper Student</
 After graduating from Korean Studies in Inalco, I decided to take a gap year to rethink about my future career. <br>
 It's in New Zealand that I came accross professional working in the Tech and started an exciting journey towards becoming a Developper. <br>
 <br>
-I develop mainly using JavaScript. But I have started using PHP, Python and tools such as React. <br>
+I develop mainly using JavaScript. But I have started using PHP, Python and tools such as React. 
+<br>
+<br>
 Have a look at my repos and <a href='https://zoeleca.github.io/' target="_blank" rel="noopener noreferrer">portfolio</a> to see what I'm curently working on !
 <br>
 <br>
