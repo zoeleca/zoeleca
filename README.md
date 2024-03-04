@@ -3,11 +3,8 @@
 
 ### <em>Bonjour</em> 🖐️
 <img align="left" width="150" height="150" src="https://github.com/zoeleca/zoeleca/assets/146814463/cb8c3def-84d9-4818-80c4-438dd2ca2067">
-I'm Zoe, a <strong>Coffee Enthusiast</strong> and a <strong>Developper Student</strong> at Ada Tech School in Paris.<br>
-<br>
-
-After graduating from Korean Studies in Inalco, I decided to take a gap year to rethink about my future career. <br>
-It's in New Zealand that I came accross professional working in the Tech and started an exciting journey towards becoming a Developper. <br>
+Greetings! I'm Zoe, a skilled professional with a background in Korean Studies and a newfound passion for technology and development.<br>
+I am currently studing App Development in Ada Tech School in Paris, working not only on team projects but on also personal projects I am learning new skills and technologies for growth and opportunity.
 <br>
 <br>
 I develop mainly using JavaScript. But I have started using PHP, Python and tools such as React. 
