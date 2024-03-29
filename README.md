@@ -12,8 +12,50 @@ Have a look at my repos and <a href='https://zoeleca.github.io/' target="_blank"
 <br>
 
 ## SKILLS
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<p align="center">
+                        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+                                alt="JavaScript" id="img-skills" />
+                        </a>
+                        <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
+                                alt="PHP" id="img-skills" /></a>
+                        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"
+                                alt="Python" id="img-skills" /></a>
+                        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+                                alt="HTML5" id="img-skills" /></a>
+                        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+                                alt="CSS3" id="img-skills" /></a>
+                        <a href="https://sql.sh/" target="_blank" rel="noreferrer">
+                            <img src="https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png" alt="SQL"
+                                id="img-skills" /></a>
+                        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+                                alt="React" id="img-skills" /></a>
+                        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+                            <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_167923.png"
+                                alt="Tailwindcss" id="img-skills" /></a>
+                        <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
+                                alt="Vite" id="img-skills" /></a>
+                        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
+                                alt="NodeJS" id="img-skills" /></a>
+                        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="Postgres"
+                                id="img-skills" /></a>
+                        <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+                            <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png"
+                                alt="Supabase" id="img-skills" /></a>
+                        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"
+                                alt="VS Code" id="img-skills" /></a>
+                        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+                                alt="Git" id="img-skills" /></a>                 
 </p>
 
 <br>
