@@ -17,9 +17,6 @@ Have a look at my repos and <a href='https://zoeleca.github.io/' target="_blank"
                             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
                                 alt="JavaScript" id="img-skills" width="30" height="30"/>
                         </a>
-                        <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-                            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
-                                alt="PHP" id="img-skills" width="30" height="30"/></a>
                         <a href="https://www.python.org/" target="_blank" rel="noreferrer">
                             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"
                                 alt="Python" id="img-skills" width="30" height="30"/></a>
@@ -32,6 +29,9 @@ Have a look at my repos and <a href='https://zoeleca.github.io/' target="_blank"
                         <a href="https://sql.sh/" target="_blank" rel="noreferrer">
                             <img src="https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png" alt="SQL"
                                 id="img-skills" width="30" height="30"/></a>
+                        <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+                            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
+                                alt="PHP" id="img-skills" width="30" height="30"/></a>
                         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
                             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
                                 alt="React" id="img-skills" width="30" height="30"/></a>
