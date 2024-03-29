@@ -57,8 +57,8 @@ Have a look at my repos and <a href='https://zoeleca.github.io/' target="_blank"
                             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
                                 alt="Git" id="img-skills" width="30" height="30"/></a>                 
 </p>
-
 <br>
+
 ### Get it touch !
 <br>
 → ✉️ Send me an Email : <a href="mailto:zoennts@gmail.com" target="_blank" rel="noopener noreferrer">zoennts@gmail.com</a>
