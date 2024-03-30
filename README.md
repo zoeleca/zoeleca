@@ -8,7 +8,7 @@ I am currently studing App Development in Ada Tech School in Paris, working not 
 <br>
 I develop mainly using JavaScript. But I have started using PHP, Python and tools such as React. 
 <br>
-Have a look at my repos and <a href='https://zoeleca.github.io/' target="_blank" rel="noopener noreferrer">portfolio</a> to see what I'm curently working on !
+Have a look at my repos and <a href='https://zoeleca.github.io/' target="_blank" rel="noopener noreferrer">Portfolio</a> to see what I'm curently working on !
 <br>
 
 ## SKILLS
