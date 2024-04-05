@@ -1,6 +1,6 @@
 # ZOE LECAILLE __ WEB DEVELOPER
-<code style="color : aquamarine"><strong><em>Looking for an Apprenticeship (12 months) starting from July 2024</em></strong></code><br>
-
+> [!IMPORTANT]
+> <code style="color : aquamarine"><strong><em>Looking for an Apprenticeship (12 months) starting from July 2024</em></strong></code><br>
 ## <em>Bonjour</em> 🖐️
 Greetings! I'm Zoe, a Web Developper Student and a coffee enthusiast.<br>
 I am currently studing App Development in Ada Tech School in Paris, working not only on team projects but on also personal projects I am learning new skills and technologies for growth and opportunity.
@@ -11,8 +11,17 @@ I develop mainly using JavaScript. But I have started using PHP, Python and tool
 Have a look at my repos and <a href='https://zoeleca.github.io/' target="_blank" rel="noopener noreferrer">Portfolio</a> to see what I'm curently working on !
 <br>
 
+  <div align="left">
+    
+## Get it touch ! 
+→ ✉️ Send me an Email : <a href="mailto:zoennts@gmail.com" target="_blank" rel="noopener noreferrer">zoennts@gmail.com</a><br>
+→ <a href="https://www.linkedin.com/in/zoe-lecaille/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png" width="20" height="20" alt="linkedin"/> 
+ Linkedin</a>
+ <div/>
+
 ## SKILLS
-<p align="center">
+<div justify='center'>
+<p>
                         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
                             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
                                 alt="JavaScript" id="img-skills" width="30" height="30"/>
@@ -57,10 +66,10 @@ Have a look at my repos and <a href='https://zoeleca.github.io/' target="_blank"
                             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
                                 alt="Git" id="img-skills" width="30" height="30"/></a>                 
 </p>
-
-### Get it touch !
-→ ✉️ Send me an Email : <a href="mailto:zoennts@gmail.com" target="_blank" rel="noopener noreferrer">zoennts@gmail.com</a>
+ 
 <br>
-→ <a href="https://www.linkedin.com/in/zoe-lecaille/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png" width="20" height="20" alt="linkedin"/> 
- Linkedin</a>
 
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=zoeleca&layout=compact&theme=dracula'/>
+
+  </div>
+<br>
