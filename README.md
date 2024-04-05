@@ -1,6 +1,5 @@
 # ZOE LECAILLE __ WEB DEVELOPER
-> [!IMPORTANT]
-> <code style="color : aquamarine"><strong><em>Looking for an Apprenticeship (12 months) starting from July 2024</em></strong></code><br>
+<code style="color : aquamarine"><strong><em>Looking for an Apprenticeship (12 months) starting from July 2024</em></strong></code><br>
 ## <em>Bonjour</em> 🖐️
 Greetings! I'm Zoe, a Web Developper Student and a coffee enthusiast.<br>
 I am currently studing App Development in Ada Tech School in Paris, working not only on team projects but on also personal projects I am learning new skills and technologies for growth and opportunity.
