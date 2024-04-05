@@ -20,8 +20,7 @@ Have a look at my repos and <a href='https://zoeleca.github.io/' target="_blank"
  <div/>
 
 ## SKILLS
-<div justify='center'>
-<p>
+<p align='center'>
                         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
                             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
                                 alt="JavaScript" id="img-skills" width="30" height="30"/>
@@ -68,8 +67,5 @@ Have a look at my repos and <a href='https://zoeleca.github.io/' target="_blank"
 </p>
  
 <br>
-
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=zoeleca&layout=compact&theme=dracula'/>
-
-  </div>
+<br>
 <br>
