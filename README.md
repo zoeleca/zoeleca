@@ -33,6 +33,10 @@ Have a look at my repos and <a href='https://zoeleca.github.io/' target="_blank"
                             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
                                 alt="JavaScript" id="img-skills" width="30" height="30"/>
                         </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/TypeScript" target="_blank" rel="noreferrer">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png"
+                                alt="TypeScript" id="img-skills" width="30" height="30"/>
+                        </a>
                         <a href="https://www.python.org/" target="_blank" rel="noreferrer">
                             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"
                                 alt="Python" id="img-skills" width="30" height="30"/></a>
@@ -71,5 +75,9 @@ Have a look at my repos and <a href='https://zoeleca.github.io/' target="_blank"
                                 alt="VS Code" id="img-skills" width="30" height="30"/></a>
                         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
-                                alt="Git" id="img-skills" width="30" height="30"/></a>                 
+                                alt="Git" id="img-skills" width="30" height="30"/></a>  
+  <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
+                            <img src="https://vitest.dev/logo-shadow.svg"
+                                alt="Vitest" id="img-skills" width="30" height="30"/>
+                        </a>
 </p>
