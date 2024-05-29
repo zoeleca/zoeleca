@@ -11,11 +11,9 @@ I develop mainly using JavaScript/Typescript. <br>
 But I've also used languages such as PHP, Python and framework such as React/Laravel. <br>
 I've been trying implementing TDD (Vitest/Supertest) & Separation of concerns in my most recent projects. 
 <br>
-<br>
 > [!IMPORTANT]
 > Have a look at my repos and <a href='https://zoeleca.github.io/' target="_blank" rel="noopener noreferrer">Portfolio</a> to see what I'm curently working on !
-<br>
-<br>
+
 
   <div align="left">
     
