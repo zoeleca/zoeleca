@@ -39,12 +39,6 @@ I've been trying implementing TDD (Vitest/Supertest) & Separation of concerns in
                         <a href="https://www.python.org/" target="_blank" rel="noreferrer">
                             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"
                                 alt="Python" id="img-skills" width="30" height="30"/></a>
-                        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-                            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-                                alt="HTML5" id="img-skills" width="30" height="30"/></a>
-                        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-                            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-                                alt="CSS3" id="img-skills" width="30" height="30"/></a>
                         <a href="https://sql.sh/" target="_blank" rel="noreferrer">
                             <img src="https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png" alt="SQL"
                                 id="img-skills" width="30" height="30"/></a>
