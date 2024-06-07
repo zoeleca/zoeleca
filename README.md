@@ -1,41 +1,37 @@
 # ZOE LECAILLE __ WEB DEVELOPER
-<code style="color : aquamarine"><strong><em>Looking for an Apprenticeship (12 months) starting from July 2024</em></strong></code><br>
-<br>
+
 ## <em>Bonjour</em> 🖐️
-Greetings! I'm Zoe, a Computer Science student and a coffee enthusiast.<br>
-I am currently studing Web Development in Ada Tech School (Paris). 
- I am learning new skills and technologies for growth and opportunity, working on both team projects and personal projects.
+<br>
+
+> [!NOTE]
+> I'm Zoe, a Software Engineer student at Ada Tech School and a coffee enthusiast.<br><br>
+> I am learning new skills and technologies for growth and opportunity, working on both team projects and personal projects.<br>
+> I develop mainly using JavaScript/Typescript. 
+> But I've also used languages such as PHP, Python and framework such as React/Laravel. 
 <br>
 <br>
-I develop mainly using JavaScript/Typescript. <br>
-But I've also used languages such as PHP, Python and framework such as React/Laravel. <br>
-I've been trying implementing TDD (Vitest/Supertest) & Separation of concerns in my most recent projects. 
-<br>
+
 > [!IMPORTANT]
-> Have a look at my repos and <a href='https://zoeleca.github.io/' target="_blank" rel="noopener noreferrer">Portfolio</a> to see what I'm curently working on !
+> Have a look at my  <a href='https://github.com/zoeleca?tab=repositories' target="_blank" rel="noopener noreferrer">repos</a> and <a href='https://zoeleca.github.io/' target="_blank" rel="noopener noreferrer">Portfolio</a> to see what I'm curently working on !<br>
+> <em>(I'm trying to implement TDD (Vitest/Supertest) & Separation of Concerns in my most recent projects.)</em>
 
 
   <div align="left">
     
 ## Get in touch ! 
-→ ✉️ Send me an Email : <a href="mailto:zoennts@gmail.com" target="_blank" rel="noopener noreferrer">zoennts@gmail.com</a><br>
-→ <a href="https://www.linkedin.com/in/zoe-lecaille/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png" width="20" height="20" alt="linkedin"/> 
- Linkedin</a>
+→ ✉️  Send me an Email :   <a href="mailto:zoennts@gmail.com" target="_blank" rel="noopener noreferrer">zoennts@gmail.com</a><br>
+→ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png" width="20" height="20" alt="linkedin"/><a href="https://www.linkedin.com/in/zoe-lecaille/" target="_blank" rel="noopener noreferrer"> Linkedin </a>
  <div/>
-
-<br>
 
 ## SKILLS
 <br>
 <p align='center'>
                         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
                             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
-                                alt="JavaScript" id="img-skills" width="30" height="30"/>
-                        </a>
+                                alt="JavaScript" id="img-skills" width="30" height="30"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/TypeScript" target="_blank" rel="noreferrer">
                             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png"
-                                alt="TypeScript" id="img-skills" width="30" height="30"/>
-                        </a>
+                                alt="TypeScript" id="img-skills" width="30" height="30"/></a>
                         <a href="https://www.python.org/" target="_blank" rel="noreferrer">
                             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"
                                 alt="Python" id="img-skills" width="30" height="30"/></a>
