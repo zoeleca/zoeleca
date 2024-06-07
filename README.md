@@ -3,11 +3,10 @@
 ## <em>Bonjour</em> 🖐️
 <br>
 
-> [!NOTE]
-> I'm Zoe, a Software Engineer student at Ada Tech School and a coffee enthusiast.<br><br>
-> I am learning new skills and technologies for growth and opportunity, working on both team projects and personal projects.<br>
-> I develop mainly using JavaScript/Typescript. 
-> But I've also used languages such as PHP, Python and framework such as React/Laravel. 
+I'm Zoe, a Software Engineer student at Ada Tech School and a coffee enthusiast.<br><br>
+I am learning new skills and technologies for growth and opportunity, working on both team projects and personal projects.<br>
+I develop mainly using JavaScript/Typescript. 
+But I've also used languages such as PHP, Python and framework such as React/Laravel. 
 <br>
 <br>
 
