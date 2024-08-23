@@ -18,7 +18,6 @@ But I've also used languages such as PHP, Python and framework such as React/Lar
   <div align="left">
     
 ## Get in touch ! 
-→ ✉️  Send me an Email :   <a href="mailto:zoennts@gmail.com" target="_blank" rel="noopener noreferrer">zoennts@gmail.com</a><br>
 → <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png" width="20" height="20" alt="linkedin"/><a href="https://www.linkedin.com/in/zoe-lecaille/" target="_blank" rel="noopener noreferrer"> Linkedin </a>
  <div/>
 
