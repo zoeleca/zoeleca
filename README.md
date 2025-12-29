@@ -1,6 +1,6 @@
 # Zoe Lecaille
 
-## Software Engineer ☕
+## Software Engineer
 
 Hello ! I am a Software Engineer with over a year and a half of experience at **Swan**, where I contribute to building robust financial technology. 
 I transition complex problems into clean, maintainable code, with a strong focus on technical excellence and software design.
@@ -11,7 +11,7 @@ I transition complex problems into clean, maintainable code, with a strong focus
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" width="35" height="35"/>
@@ -29,15 +29,12 @@ I transition complex problems into clean, maintainable code, with a strong focus
 
 ---
 
-### 🚀 Featured Work
+### Featured Work
 > [!TIP]
 > Check out my **[Portfolio](https://zoeleca.github.io/)** to see my latest projects, featuring implementations of TDD and Clean Architecture.
 ---
 
-### 📫 Get in touch
-<a href="https://www.linkedin.com/in/zoe-lecaille/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:hellozoelecaille@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+### Get in touch
+<a href="https://www.linkedin.com/in/zoe-lecaille/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="test" height="30" width="40" /></a>
+</p>
+📫 How to reach me **zoelecaille.pro@gmail.com**
