@@ -8,7 +8,7 @@
 
 ### Beyond the code
 
-I’m a Software Engineer at [**Swan**](https://www.swan.io/) in Paris. (mainly worked back-end).
+I’m a Software Engineer at [**Swan**](https://www.swan.io/) in Paris (mainly back-end).
 I see software as a craft, I’m deeply curious about how to build things that aren't just powerful, but are thoughtfully designed and easy for other developers to read.
 
 **A few things about me:**
